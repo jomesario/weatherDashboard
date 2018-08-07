@@ -1,0 +1,14 @@
+<h2>Ciudad Obregón</h2>
+
+<h3>Today's temp is: {{currentTemp}} °{{unitDegree}} </h3>
+<hr>
+<h6>Chart</h6>
+
+<div class="row">
+  <div class="col-md-12 col-lg-12 col-lg-12">
+    <h5>Forecast for the next 15 days</h5>
+    <div *ngIf ="chart">
+      <canvas id="canvas">{{chart}}</canvas>
+    </div>
+  </div>
+</div>
