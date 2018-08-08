@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
+##Run the App
+
+* We need to clone this repository with `git clone https://github.com/jomesario/weatherDashboard`
+* Now move to that directory with `cd weatherDashboard/`
+* Build the project with `ng build`
+* Download all the modules with `npm install` (node and npm needed)
+* Finally use `node server.js` to run the application on the port :4600
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
