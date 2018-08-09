@@ -6,9 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * We need to clone this repository with `git clone https://github.com/jomesario/weatherDashboard`
 * Now move to that directory with `cd weatherDashboard/`
-* Build the project with `ng build`
+* Build the project with angular with `ng build`
 * Download all the modules with `npm install` (node and npm needed)
 * Finally use `node server.js` to run the application on the port :4600
+* Go to the browser on `localhost:4600` to see the magic
+* The application consumes web services with REST to https://www.weatherbit.io/api/, be sure to register, and 
+  use your APIKEY instead of mine
 
 ## Development server
 
