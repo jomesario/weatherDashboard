@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
-##Run the App
+## Run the App
 
 * We need to clone this repository with `git clone https://github.com/jomesario/weatherDashboard`
 * Now move to that directory with `cd weatherDashboard/`
